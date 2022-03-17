@@ -19,19 +19,19 @@
 ## 3. Team
 
 
-#### Members: 
+### Members: 
 *List the team members*
 
-#### Roles:
+### Roles:
 *List each team members role to be performed during the development*
    
-#### Team Assignments:
+### Team Assignments:
 
-       | Member name     | Role                   |
-       |-----------------|:----------------------:|
-       |                 |                        |
-       |                 |                        |
-       |             	 |                        |
+       | Member name | Role  |
+       | ----------- | :---: |
+       |             |       |
+       |             |       |
+       |             |       |
 
 ## 4. Estimates and Deadlines
 *List here rough estimates for time and code. These should provide a course outline for the required man power for the project.*

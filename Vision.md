@@ -1,7 +1,7 @@
-# Vision Document
+# Vision
 
 
-## 1. Introduction
+## 1. Executive Summary
 *In this section provide introductory details about the software (application, system, etc.). This can include where the inspiration for the initial idea originated.*
 
 ## 2. Product / Solution Overview
